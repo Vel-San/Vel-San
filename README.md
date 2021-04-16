@@ -76,7 +76,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.paypal.com/donate?hosted_button_id=QJU9QBBYUQQ6S&source=url"><img src="https://img.shields.io/badge/-PayPal%20Donations-FFFFFF?style=flat&logo=paypal&logoColor=white"/></a>
-<a href="https://steamcommunity.com/id/Vel-San/"><img src="https://img.shields.io/badge/-Steam-0077B5?style=flat&logo=steam&logoColor=white"/></a>
-<a href="mailto:Vel-San@ProtonMail.Com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=protonmail&logoColor=white"/></a>
+<a href="https://www.paypal.com/donate?hosted_button_id=QJU9QBBYUQQ6S&source=url" target="_blank"><img src="https://img.shields.io/badge/-PayPal%20Donations-FFFFFF?style=flat&logo=paypal&logoColor=white"/></a>
+<a href="https://steamcommunity.com/id/Vel-San/" target="_blank"><img src="https://img.shields.io/badge/-Steam-0077B5?style=flat&logo=steam&logoColor=white"/></a>
+<a href="mailto:Vel-San@ProtonMail.Com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=protonmail&logoColor=white"/></a>
 </p>

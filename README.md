@@ -10,6 +10,8 @@
 🗣️ &nbsp;I speak German (*Moderate*), English (*Fluent*) & Arabic (*Fluent*).\
 🗄️ &nbsp;I'm not doing android development anymore, that's why `GetOffYourPhone` has been archived.
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Vel-San.Vel-San)
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/Vel-San/Vel-San/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack

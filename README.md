@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Passion for CI/CD, automation & cloud architecture. Build, release & Delivery.\
+💡 &nbsp; Passion for CI/CD, automation & cloud architecture. Build, release & delivery.\
 🌱 &nbsp;Currently working as a DevOps Engineer & hands-Own Automobile hardware cloud deployment.\
 ✍️ &nbsp;In my free time (Absolute free..), I develop mods & mutators for `Killing Floor`, and maintain a blog-like site for it.\
 💬 &nbsp;Feel free to contact me with anything you need help/support in.\

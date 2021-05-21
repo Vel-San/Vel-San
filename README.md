@@ -8,7 +8,7 @@
 💬 &nbsp;Feel free to contact me with anything you need help/support in.\
 ✉️ &nbsp;You can shoot me an E-mail at **Vel-San@ProtonMail.com**! I'll try to respond as soon as I can.\
 🗣️ &nbsp;I speak German (*Moderate*), English (*Fluent*) & Arabic (*Fluent*).\
-🗄️ &nbsp;I'm not doing android development anymore, that's why `Get Off Your Phone` has been archived.
+🗄️ &nbsp;No longer developing/interested in Android Developement; [Get Off Your Phone](https://github.com/Vel-San/Getoffyourphone) has been archived.
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Vel-San.Vel-San)
 

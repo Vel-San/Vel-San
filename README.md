@@ -4,7 +4,7 @@
 
 💡 &nbsp; Passion for CI/CD, Automation & Cloud Architecture. Build, release & delivery.\
 🌱 &nbsp;Currently working as a DevOps Engineer & hands-on automobile hardware cloud deployment.\
-✍️ &nbsp;In my free time (Absolute free..), I develop mods & mutators for `Killing Floor`, and maintain a blog-like site for it.\
+✍️ &nbsp;Sometimes I write mutators for `[Killing Floor](https://store.steampowered.com/app/1250/Killing_Floor/)`.\
 💬 &nbsp;Feel free to contact me with anything you need help/support in.\
 ✉️ &nbsp;You can shoot me an E-mail at **Vel-San@ProtonMail.com**! I'll try to respond as soon as I can.\
 🗣️ &nbsp;I speak German (*Moderate*), English (*Fluent*) & Arabic (*Fluent*).\

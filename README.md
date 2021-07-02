@@ -4,9 +4,8 @@
 
 💡 &nbsp; Passion for CI/CD, Automation & Cloud Architecture. Build, release & delivery.\
 🌱 &nbsp;Currently working as a DevOps Engineer & hands-on automobile hardware cloud deployment.\
-✍️ &nbsp;Sometimes I write mutators for **[Killing Floor](https://store.steampowered.com/app/1250/Killing_Floor/)**, you can find everything in **[BAM](https://github.com/Bleeding-Action-Man)**.\
-💬 &nbsp;Feel free to contact me with anything you need help/support in.\
-✉️ &nbsp;You can shoot me an E-mail at **Vel-San@ProtonMail.com**! I'll try to respond as soon as I can.\
+✍️ &nbsp;Retired **[Killing Floor](https://store.steampowered.com/app/1250/Killing_Floor/)** modder, you can find everything in **[BAM](https://github.com/Bleeding-Action-Man)**.\
+💬 &nbsp;Feel free to contact me here **Vel-San@ProtonMail.com**!\
 🗣️ &nbsp;I speak German (*Moderate*), English (*Fluent*) & Arabic (*Fluent*).\
 🗄️ &nbsp;No longer developing/interested in Android Developement; **[Get Off Your Phone](https://github.com/Vel-San/Getoffyourphone)** has been archived.
 

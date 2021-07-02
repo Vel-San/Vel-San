@@ -76,6 +76,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
+<p align="center">
 <a href="https://steamcommunity.com/id/Vel-San/" target="_blank"><img src="https://img.shields.io/badge/-Steam-0077B5?style=flat&logo=steam&logoColor=white"/></a>
 <a href="mailto:Vel-San@ProtonMail.Com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=protonmail&logoColor=white"/></a>
 </p>

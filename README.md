@@ -9,7 +9,7 @@
 🗣️ &nbsp;I speak German (*Moderate*), English (*Fluent*) & Arabic (*Fluent*).\
 🗄️ &nbsp;No longer developing/interested in Android Developement; **[Get Off Your Phone](https://github.com/Vel-San/Getoffyourphone)** has been archived.
 
-![Visitors](https://komarev.com/ghpvc/?username=vel-san&color=purple&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=vel-san&color=blueviolet&style=flat-square)
 
 <img alt="Night Coding" style="border-radius: 10%" src="https://raw.githubusercontent.com/Vel-San/Vel-San/master/assets/Night-Coding.gif" align="right"/>
 

@@ -39,6 +39,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=Jenkins)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)&nbsp;
 ![Artifactory](https://img.shields.io/badge/-Artifactory-05122A?style=flat&logo=artifactory)&nbsp;\
 ![Cloudability](https://img.shields.io/badge/-Cloudability-05122A?style=flat&logo=cloudability)&nbsp;

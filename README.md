@@ -19,17 +19,12 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Unreal-Script](https://img.shields.io/badge/-UnrealScript-05122A?style=flat&logo=unreal-engine)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Jinja](https://img.shields.io/badge/-Jinja-05122A?style=flat&logo=jinja)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=c-sharp)&nbsp;\
-![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 #### *Services*
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -46,20 +41,14 @@
 ![Xamarin](https://img.shields.io/badge/-Xamarin-05122A?style=flat&logo=Xamarin)&nbsp;
 ![Calabash](https://img.shields.io/badge/-Calabash-05122A?style=flat&logo=calabash)&nbsp;
 ![NightmareJS](https://img.shields.io/badge/-NightmareJS-05122A?style=flat&logo=nightmare-js)&nbsp;
-![NumPy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)&nbsp;
-![Bokeh](https://img.shields.io/badge/-Bokeh-05122A?style=flat&logo=bokeh)&nbsp;
 ![SonarQube](https://img.shields.io/badge/-SonarQube-05122A?style=flat&logo=sonarqube)&nbsp;
 ![VeraCode](https://img.shields.io/badge/-VeraCode-05122A?style=flat&logo=veracode)&nbsp;
 #### *Tools*
 ![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![JIRA](https://img.shields.io/badge/-JIRA-05122A?style=flat&logo=jira)&nbsp;
 ![Zephyr](https://img.shields.io/badge/-Zephyr-05122A?style=flat&logo=Zephyr)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Jekyll](https://img.shields.io/badge/-Jekyll-05122A?style=flat&logo=jekyll)&nbsp;
 ![Android-Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
 ![Visual-Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio)&nbsp;
@@ -79,7 +68,7 @@
 
 <p align="center">
 <a href="https://steamcommunity.com/id/Vel-San/" target="_blank"><img src="https://img.shields.io/badge/-Steam-0077B5?style=flat&logo=steam&logoColor=white"/></a>
-<a href="mailto:Vel-San@ProtonMail.Com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=protonmail&logoColor=white"/></a>
+<a href="mailto:Vel-San@ProtonMail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=protonmail&logoColor=white"/></a>
 </p>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P35ZXZH)

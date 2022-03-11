@@ -20,9 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Unreal-Script](https://img.shields.io/badge/-UnrealScript-05122A?style=flat&logo=unreal-engine)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Jinja](https://img.shields.io/badge/-Jinja-05122A?style=flat&logo=jinja)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=c-sharp)&nbsp;\
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 #### *Services*
@@ -36,7 +34,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)&nbsp;
-![Artifactory](https://img.shields.io/badge/-Artifactory-05122A?style=flat&logo=artifactory)&nbsp;\
+![Artifactory](https://img.shields.io/badge/-Artifactory-05122A?style=flat&logo=artifactory)&nbsp;
 ![Cloudability](https://img.shields.io/badge/-Cloudability-05122A?style=flat&logo=cloudability)&nbsp;
 ![Xamarin](https://img.shields.io/badge/-Xamarin-05122A?style=flat&logo=Xamarin)&nbsp;
 ![Calabash](https://img.shields.io/badge/-Calabash-05122A?style=flat&logo=calabash)&nbsp;

@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Passion for CI/CD, Automation & Cloud Architecture. Build, release & delivery.\
-🌱 &nbsp;Currently working as a DevOps Engineer & hands-on automobile hardware cloud deployment.\
+💡 &nbsp; Passion for Automotive Industry, AI, CI/CD, Automation & Cloud Architecture. Build, release & delivery.\
+🌱 &nbsp;Currently working as a ~~DevOps Engineer~~ Release Engineer & hands-on automotive hardware w/ cloud deployment.\
 ✍️ &nbsp;**[Killing Floor](https://store.steampowered.com/app/1250/Killing_Floor/)** modder, you can find everything in **[BAM](https://github.com/Bleeding-Action-Man)**.\
 💬 &nbsp;Feel free to contact me here **Vel-San@ProtonMail.com**!\
 🗣️ &nbsp;I speak German (*Moderate*), English (*Fluent*) & Arabic (*Fluent*).\
@@ -34,6 +34,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)&nbsp;
+![JAMA](https://img.shields.io/badge/-Basil-05122A?style=flat&logo=basil)&nbsp;
 ![Artifactory](https://img.shields.io/badge/-Artifactory-05122A?style=flat&logo=artifactory)&nbsp;
 ![Cloudability](https://img.shields.io/badge/-Cloudability-05122A?style=flat&logo=cloudability)&nbsp;
 ![Xamarin](https://img.shields.io/badge/-Xamarin-05122A?style=flat&logo=Xamarin)&nbsp;
@@ -46,6 +47,7 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![JIRA](https://img.shields.io/badge/-JIRA-05122A?style=flat&logo=jira)&nbsp;
+![JAMA](https://img.shields.io/badge/-JAMA-05122A?style=flat&logo=jama)&nbsp;
 ![Zephyr](https://img.shields.io/badge/-Zephyr-05122A?style=flat&logo=Zephyr)&nbsp;
 ![Jekyll](https://img.shields.io/badge/-Jekyll-05122A?style=flat&logo=jekyll)&nbsp;
 ![Android-Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;

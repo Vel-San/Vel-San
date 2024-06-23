@@ -1,74 +1,73 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm **Vel**</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e06666&height=120&section=header"/>
 
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp; Passion for Automotive Industry, AI, CI/CD, Automation & Cloud Architecture. Build, release & delivery.\
-🌱 &nbsp;Currently working as a ~~DevOps Engineer~~ Release Engineer & hands-on automotive hardware w/ cloud deployment.\
-✍️ &nbsp;**[Killing Floor](https://store.steampowered.com/app/1250/Killing_Floor/)** modder, you can find everything in **[BAM](https://github.com/Bleeding-Action-Man)**.\
-💬 &nbsp;Feel free to contact me here **Vel-San@ProtonMail.com**!\
-🗣️ &nbsp;I speak German (*Moderate*), English (*Fluent*) & Arabic (*Fluent*).\
-🗄️ &nbsp;No longer developing/interested in Android Developement; **[Get Off Your Phone](https://github.com/Vel-San/Getoffyourphone)** has been archived.
-
-![Visitors](https://komarev.com/ghpvc/?username=vel-san&color=blueviolet&style=flat-square)
-
-<img alt="Night Coding" style="border-radius: 10%" src="https://raw.githubusercontent.com/Vel-San/Vel-San/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
-
-#### *Languages*
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Unreal-Script](https://img.shields.io/badge/-UnrealScript-05122A?style=flat&logo=unreal-engine)&nbsp;
-![Jinja](https://img.shields.io/badge/-Jinja-05122A?style=flat&logo=jinja)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-#### *Services*
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
-![Azure](https://img.shields.io/badge/-Microsoft%20Azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=Jenkins)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
-![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
-![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)&nbsp;
-![JAMA](https://img.shields.io/badge/-Basil-05122A?style=flat&logo=basil)&nbsp;
-![Artifactory](https://img.shields.io/badge/-Artifactory-05122A?style=flat&logo=artifactory)&nbsp;
-![Cloudability](https://img.shields.io/badge/-Cloudability-05122A?style=flat&logo=cloudability)&nbsp;
-![Xamarin](https://img.shields.io/badge/-Xamarin-05122A?style=flat&logo=Xamarin)&nbsp;
-![Calabash](https://img.shields.io/badge/-Calabash-05122A?style=flat&logo=calabash)&nbsp;
-![NightmareJS](https://img.shields.io/badge/-NightmareJS-05122A?style=flat&logo=nightmare-js)&nbsp;
-![SonarQube](https://img.shields.io/badge/-SonarQube-05122A?style=flat&logo=sonarqube)&nbsp;
-![VeraCode](https://img.shields.io/badge/-VeraCode-05122A?style=flat&logo=veracode)&nbsp;
-#### *Tools*
-![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence)&nbsp;
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![JIRA](https://img.shields.io/badge/-JIRA-05122A?style=flat&logo=jira)&nbsp;
-![JAMA](https://img.shields.io/badge/-JAMA-05122A?style=flat&logo=jama)&nbsp;
-![Zephyr](https://img.shields.io/badge/-Zephyr-05122A?style=flat&logo=Zephyr)&nbsp;
-![Jekyll](https://img.shields.io/badge/-Jekyll-05122A?style=flat&logo=jekyll)&nbsp;
-![Android-Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
-![Visual-Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio)&nbsp;
-
-### ⚙️ &nbsp;GitHub Analytics
-
-*Note: Private Repos Included*
-
+ <a href="https://git.io/typing-svg">
+ <img src="http://readme-typing-svg.herokuapp.com?font=Iceberg&size=40&duration=2000&pause=1000&color=F74141&center=true&vCenter=true&random=false&width=1000&lines=Automation;DevOps;CI%2FCD;Automotive;Release+Engineering" alt="Typing SVG"/>
+ </a>
+ 
+<div style="display: inline_block">
+  <br>
 <p align="center">
-<a href="https://github.com/Vel-San">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vel-San&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vel-San&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img align="center" height="40" width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/8470f340-0495-47c2-a95c-3c873e329c00">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" height="40" width="40" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/jinja.png">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
+  </p>
+</div>
+
+<div style="display: inline_block">
+<p align="center">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg">
+  <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg">
+  <img align="center" height="40" width="40" src="https://avatars.githubusercontent.com/u/14338238?s=200&v=4">
+  <img align="center" height="40" width="40" src="https://www.clipartmax.com/png/full/69-698347_jfrog-artifactory-logo.png">
+  <img align="center" height="40" width="40" src="https://asset.brandfetch.io/id3D6LaQJT/idW8rIS165.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg">
+  <img align="center" height="40" width="40" src="https://asset.brandfetch.io/idgk7AbTIi/idLAPNmz-t.jpeg">  
+  </p>
+</div>
+
+<div style="display: inline_block">
+<p align="center">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-plain-wordmark.svg">
+  <img align="center" height="40" width="40" src="https://asset.brandfetch.io/id9sYMA_Im/id276B4LmG.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
+  </p>
+</div>
+
+<div>
+  <br>
+  <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vel-San&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vel-San&layout=compact&langs_count=8&theme=aura_dark&hide_border=true"/>
+  </p>
+</div>
+
+<div style="display: inline_block">
+<p align="center">
+<a href="https://steamcommunity.com/id/Vel-San/" target="_blank"><img align="center" height="40" width="40" src="https://www.svgrepo.com/show/452107/steam.svg"/></a>
+<a href="mailto:Vel-San@ProtonMail.com" target="_blank"><img align="center" height="40" width="40" src="https://www.svgrepo.com/show/331550/protonmail.svg"/></a>
+  <br>
+<a href="https://ko-fi.com/P5P35ZXZH" target="_blank"><img align="center" height="40" width="40" src="https://www.svgrepo.com/show/349430/ko-fi.svg"/></a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://steamcommunity.com/id/Vel-San/" target="_blank"><img src="https://img.shields.io/badge/-Steam-0077B5?style=flat&logo=steam&logoColor=white"/></a>
-<a href="mailto:Vel-San@ProtonMail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=protonmail&logoColor=white"/></a>
-</p>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P35ZXZH)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e06666&height=120&section=footer"/>
